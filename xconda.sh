@@ -1,5 +1,3 @@
-#!/bin/bash
-
 function xconda() {
   # bash中，设置为1；zsh中，设置为0.这源于bash中的数组下标是从0开始的，zsh是从1开始的
   # in bash,set it to 1;in zsh,set it to 0.It comes from the array subscript begins with 0 in bash and ZSH begins with 1
