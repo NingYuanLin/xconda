@@ -1,5 +1,5 @@
 # xconda
-a simple shell help you to quickly select conda environment  
+This is a simple shell to help you quickly select conda environment.  
 When you want to change conda env, you may:
 1. To excute `conda env list` to check out the env name you want to use and copy it.
 2. To knock up `conda activate` on the keyboard and paste the env name.  
